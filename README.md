@@ -1,2 +1,4 @@
 # GetDepartments
-SQL and attributes for the GetDepartments REST API service. For more details, see the REST sample repositories which contain PHP and node based servers and javascript to drive this.
+Currently being used for Urbancode Deploy delivery to z/OS testing, so just contains some SQL that we're pushing around. 
+
+Sorry, nothing interesting to see here!
